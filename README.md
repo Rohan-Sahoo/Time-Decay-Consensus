@@ -2,7 +2,7 @@
 
 A modular Rust implementation of a **Time-Decay Voting Consensus Algorithm**, where vote influence decreases over time. Built to simulate decentralized governance systems with configurable decay, thresholds, validator signatures, and voting windows.
 
-> 🏫 **Major Project under Summer Internship, mentored by [Teacher Name 1] and [Teacher Name 2]**
+> 
 
 ---
 
